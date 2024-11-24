@@ -1,9 +1,12 @@
 # UrbanSCD
+## HKCD-V2
 <p align="left">
-   <img src="HKCD-V2.png" >      
+   <img src="HKCD-dataset.png" >      
 </p>
+
+## AHNCD
 <p align="right">
-   <img src="AHNCD.png" >      
+   <img src="AHNCD-dataset.png" >      
 </p>
 
 # Overview
