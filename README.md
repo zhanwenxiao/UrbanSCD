@@ -1,10 +1,10 @@
 # UrbanSCD
-## HKCD-V2
+## HKSCD
 <p align="left">
    <img src="HKCD-dataset.png" >      
 </p>
 
-## AHNCD
+## UtrechtCD
 <p align="right">
    <img src="AHNCD-dataset.png" >      
 </p>
